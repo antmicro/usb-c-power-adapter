@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8da33aa8-79ed-467a-95ed-bf58aa0d1db6)
+
+  (paper "A3")
+
+  (title_block
+    (title "USB-C-power-adapter")
+    (date "25.03.2024")
+    (rev "1.0.0")
+    (company "Antmicro")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
