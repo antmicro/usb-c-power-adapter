@@ -473,6 +473,10 @@
     [
       "344e016f-20ec-4e27-ac78-d9a1e9a3533b",
       "Additional DCDC converters"
+    ],
+    [
+      "d5d4151e-f37c-4293-b8c0-ffe5c6971ff4",
+      "Connectors"
     ]
   ],
   "text_variables": {}
