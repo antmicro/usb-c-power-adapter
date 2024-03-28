@@ -436,11 +436,11 @@
         )
       )
     )
-    (symbol "antmicroResistors0402:R_30R_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "antmicroResistors0402:R_30k_0402" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 20.32 -5.08 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
-      (property "Value" "R_30R_0402" (at 20.32 -12.7 0)
+      (property "Value" "R_30k_0402" (at 20.32 -12.7 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Footprint" "antmicro-footprints:R_0402_1005Metric" (at 20.32 -15.24 0)
@@ -449,7 +449,7 @@
       (property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf" (at 20.32 -17.78 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "MPN" "CR0402-FX-30R0GLF" (at 20.32 -20.32 0)
+      (property "MPN" "CR0402-FX-3002GLF" (at 20.32 -20.32 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
       (property "Manufacturer" "Bourns" (at 20.32 -22.86 0)
@@ -461,7 +461,7 @@
       (property "Author" "Antmicro" (at 20.32 -27.94 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "Val" "30R" (at 20.32 -7.62 0)
+      (property "Val" "30k" (at 20.32 -7.62 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
       (property "Tolerance" "1%" (at 20.32 -10.16 0)
@@ -470,16 +470,16 @@
       (property "ki_keywords" "0402, SMT, RESISTOR, PASSIVE" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "SMD Chip Resistor, 30 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose" (at 0 0 0)
+      (property "ki_description" "SMD Chip Resistor, 30 kohm, ± 1%, 63 mW, 0402 [1005 Metric], Thick Film, General Purpose" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "R_30R_0402_0_1"
+      (symbol "R_30k_0402_0_1"
         (rectangle (start 0.635 0.889) (end 4.445 -0.889)
           (stroke (width 0.254) (type default))
           (fill (type none))
         )
       )
-      (symbol "R_30R_0402_1_1"
+      (symbol "R_30k_0402_1_1"
         (pin passive line (at 0 0 0) (length 0.635)
           (name "~" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -958,7 +958,7 @@
   (symbol (lib_id "antmicropower:GND") (at 48.26 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11ac6583-c177-4948-8c78-6992ff093157)
-    (property "Reference" "#PWR051" (at 48.26 124.46 0)
+    (property "Reference" "#PWR036" (at 48.26 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 48.26 128.905 0)
@@ -980,7 +980,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR051") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -989,7 +989,7 @@
   (symbol (lib_id "antmicropower:GND") (at 46.99 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 245b4694-68df-4b26-b3b1-f6061ce9dae3)
-    (property "Reference" "#PWR056" (at 46.99 69.85 0)
+    (property "Reference" "#PWR035" (at 46.99 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 46.99 73.66 0)
@@ -1011,16 +1011,16 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "antmicroResistors0402:R_30R_0402") (at 68.58 119.38 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_30k_0402") (at 68.58 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32ec44ac-db8e-4cf1-be0a-43141da04e26)
-    (property "Reference" "R32" (at 63.5 115.57 90)
+    (property "Reference" "R26" (at 63.5 115.57 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_30R_0402" (at 81.28 99.06 0)
@@ -1032,7 +1032,7 @@
     (property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf" (at 86.36 99.06 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "MPN" "CR0402-FX-30R0GLF" (at 88.9 99.06 0)
+    (property "MPN" "CR0402-FX-3002GLF" (at 88.9 99.06 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Manufacturer" "Bourns" (at 91.44 99.06 0)
@@ -1044,8 +1044,8 @@
     (property "Author" "Antmicro" (at 96.52 99.06 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Val" "30R" (at 63.5 118.11 90)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
+    (property "Val" "30k" (at 67.31 117.475 90)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Tolerance" "1%" (at 78.74 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -1055,7 +1055,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R32") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -1064,7 +1064,7 @@
   (symbol (lib_id "antmicroFixedInductors:L_3u3_0.9A_0805") (at 114.3 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3720d9f6-c365-4915-9893-620010e6cae4)
-    (property "Reference" "L4" (at 116.84 43.18 0)
+    (property "Reference" "L2" (at 116.84 43.18 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "L_3u3_0.9A_0805" (at 128.27 50.8 0)
@@ -1105,7 +1105,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "L4") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -1114,7 +1114,7 @@
   (symbol (lib_id "antmicroResistors0402:R_680R_0402") (at 125.73 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 412f328e-109e-487b-a112-2974e6681058)
-    (property "Reference" "R28" (at 128.27 116.84 90)
+    (property "Reference" "R30" (at 128.27 116.84 90)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "R_680R_0402" (at 121.92 115.57 0)
@@ -1149,7 +1149,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R28") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -1158,7 +1158,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_100n_50V_X8L_0402") (at 109.22 107.95 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 41719ca7-aafe-4731-bedb-2baff6b636ec)
-    (property "Reference" "C25" (at 106.68 105.41 0)
+    (property "Reference" "C24" (at 106.68 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "C_100n_50V_X8L_0402" (at 93.98 85.09 0)
@@ -1196,7 +1196,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "C25") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -1205,7 +1205,7 @@
   (symbol (lib_id "antmicroResistors0402:R_215k_0402") (at 59.69 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 441026f6-b470-4607-9edf-be06a30a0439)
-    (property "Reference" "R29" (at 62.23 50.8 0)
+    (property "Reference" "R23" (at 62.23 50.8 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_215k_0402" (at 80.01 66.04 0)
@@ -1240,7 +1240,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R29") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -1249,7 +1249,7 @@
   (symbol (lib_id "antmicroCapacitors0402:C_100n_50V_X8L_0402") (at 107.95 53.34 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49f742bb-c4a6-4485-bf4b-45addcd63fe3)
-    (property "Reference" "C29" (at 105.41 50.8 0)
+    (property "Reference" "C23" (at 105.41 50.8 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "C_100n_50V_X8L_0402" (at 92.71 30.48 0)
@@ -1287,7 +1287,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "C29") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -1296,7 +1296,7 @@
   (symbol (lib_id "antmicropower:GND") (at 68.58 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5d723dd3-a61f-4888-8ac5-8e7fe82751cb)
-    (property "Reference" "#PWR052" (at 68.58 124.46 0)
+    (property "Reference" "#PWR038" (at 68.58 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 68.58 128.905 0)
@@ -1318,7 +1318,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -1327,7 +1327,7 @@
   (symbol (lib_id "antmicroCapacitors0603:C_10u_25V_0603") (at 48.26 115.57 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e5608da-728e-45d9-9e74-3967cb305275)
-    (property "Reference" "C24" (at 50.8 111.7536 90)
+    (property "Reference" "C22" (at 50.8 111.7536 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_25V_0603" (at 58.42 95.25 0)
@@ -1365,7 +1365,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "C24") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -1374,7 +1374,7 @@
   (symbol (lib_id "antmicropower:GND") (at 76.2 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 64148d9f-7b59-4f99-b366-3a2c6ee61275)
-    (property "Reference" "#PWR048" (at 76.2 69.85 0)
+    (property "Reference" "#PWR039" (at 76.2 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 76.2 73.66 0)
@@ -1396,7 +1396,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -1405,7 +1405,7 @@
   (symbol (lib_id "antmicropower:GND") (at 135.89 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6437ef3d-f22a-4b41-89b3-305d538eda40)
-    (property "Reference" "#PWR050" (at 135.89 69.85 0)
+    (property "Reference" "#PWR043" (at 135.89 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 135.89 74.295 0)
@@ -1427,7 +1427,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR043") (unit 1)
         )
       )
     )
@@ -1436,7 +1436,7 @@
   (symbol (lib_id "antmicropower:GND") (at 124.46 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83e85a42-963b-4974-ac5e-8d7955da6136)
-    (property "Reference" "#PWR049" (at 124.46 69.85 0)
+    (property "Reference" "#PWR041" (at 124.46 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 124.46 74.295 0)
@@ -1458,7 +1458,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -1467,7 +1467,7 @@
   (symbol (lib_id "antmicroCapacitors0603:C_10u_25V_0603") (at 135.89 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89eb9d58-359f-4be8-bda1-ae1860b288f2)
-    (property "Reference" "C27" (at 138.43 55.8736 90)
+    (property "Reference" "C25" (at 138.43 55.8736 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_25V_0603" (at 146.05 39.37 0)
@@ -1505,16 +1505,16 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "C27") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "antmicroResistors0402:R_30R_0402") (at 67.31 64.77 90) (unit 1)
+  (symbol (lib_id "antmicroResistors0402:R_30k_0402") (at 67.31 64.77 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 97b37ab5-3b4b-4634-9ff5-2c616019e1f6)
-    (property "Reference" "R30" (at 62.23 60.96 90)
+    (property "Reference" "R25" (at 62.23 60.96 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_30R_0402" (at 80.01 44.45 0)
@@ -1526,7 +1526,7 @@
     (property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf" (at 85.09 44.45 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "MPN" "CR0402-FX-30R0GLF" (at 87.63 44.45 0)
+    (property "MPN" "CR0402-FX-3002GLF" (at 87.63 44.45 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Manufacturer" "Bourns" (at 90.17 44.45 0)
@@ -1538,8 +1538,8 @@
     (property "Author" "Antmicro" (at 95.25 44.45 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Val" "30R" (at 62.23 63.5 90)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
+    (property "Val" "30k" (at 66.04 62.865 90)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Tolerance" "1%" (at 77.47 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
@@ -1549,7 +1549,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R30") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -1558,7 +1558,7 @@
   (symbol (lib_id "antmicropower:GND") (at 137.16 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9c1885e1-4392-47f5-9d97-2af26dfcab40)
-    (property "Reference" "#PWR054" (at 137.16 124.46 0)
+    (property "Reference" "#PWR044" (at 137.16 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 137.16 128.905 0)
@@ -1580,7 +1580,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR044") (unit 1)
         )
       )
     )
@@ -1589,7 +1589,7 @@
   (symbol (lib_id "antmicroFixedInductors:L_3u3_0.9A_0805") (at 114.3 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a06eee76-5d16-4cb9-b7da-533c3b9bd0bc)
-    (property "Reference" "L2" (at 116.84 97.79 0)
+    (property "Reference" "L3" (at 116.84 97.79 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "L_3u3_0.9A_0805" (at 128.27 105.41 0)
@@ -1630,7 +1630,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "L2") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
     )
@@ -1639,7 +1639,7 @@
   (symbol (lib_id "antmicroDCDCConverters:AP62301_TSOT") (at 78.74 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a70d12a0-3231-47e6-949b-04de75543092)
-    (property "Reference" "U5" (at 88.9 41.91 0)
+    (property "Reference" "U3" (at 88.9 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP62301WU-7" (at 88.9 44.2214 0)
@@ -1672,7 +1672,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "U5") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -1681,7 +1681,7 @@
   (symbol (lib_id "antmicroCapacitors0603:C_10u_25V_0603") (at 137.16 114.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b5e8510c-e2bb-406b-98af-ec2f40e9e32a)
-    (property "Reference" "C28" (at 139.7 110.4836 90)
+    (property "Reference" "C26" (at 139.7 110.4836 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_25V_0603" (at 147.32 93.98 0)
@@ -1719,7 +1719,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "C28") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -1728,7 +1728,7 @@
   (symbol (lib_id "antmicroResistors0402:R_215k_0402") (at 60.96 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bd3388f9-43db-40db-8b1c-02902f91ed60)
-    (property "Reference" "R31" (at 63.5 105.41 0)
+    (property "Reference" "R24" (at 63.5 105.41 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Value" "R_215k_0402" (at 81.28 120.65 0)
@@ -1763,7 +1763,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R31") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -1772,7 +1772,7 @@
   (symbol (lib_id "antmicropower:GND") (at 67.31 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c0ecbebb-a600-4c21-a6f3-6accdbf2d361)
-    (property "Reference" "#PWR055" (at 67.31 69.85 0)
+    (property "Reference" "#PWR037" (at 67.31 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 67.31 73.66 0)
@@ -1794,7 +1794,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -1803,7 +1803,7 @@
   (symbol (lib_id "antmicroResistors0402:R_6k8_0402") (at 124.46 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c7288ea2-ed6a-408b-a824-c5bfe9122c18)
-    (property "Reference" "R25" (at 127 50.8 90)
+    (property "Reference" "R27" (at 127 50.8 90)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "R_6k8_0402" (at 120.65 50.8 0)
@@ -1838,7 +1838,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R25") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -1847,7 +1847,7 @@
   (symbol (lib_id "antmicroDCDCConverters:AP62301_TSOT") (at 80.01 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8adc599-4e4b-4325-b04d-9c4585a70d6e)
-    (property "Reference" "U6" (at 90.17 96.52 0)
+    (property "Reference" "U4" (at 90.17 96.52 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP62301WU-7" (at 90.17 98.8314 0)
@@ -1880,7 +1880,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "U6") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -1889,7 +1889,7 @@
   (symbol (lib_id "antmicropower:GND") (at 125.73 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ddb7a65b-094d-4476-9199-3927f19806b9)
-    (property "Reference" "#PWR053" (at 125.73 124.46 0)
+    (property "Reference" "#PWR042" (at 125.73 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 125.73 128.905 0)
@@ -1911,7 +1911,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
@@ -1920,7 +1920,7 @@
   (symbol (lib_id "antmicroCapacitors0603:C_10u_25V_0603") (at 46.99 60.96 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ebef6a5c-ce1c-4d52-89b7-6f8a09d64f27)
-    (property "Reference" "C23" (at 49.53 57.1436 90)
+    (property "Reference" "C21" (at 49.53 57.1436 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "C_10u_25V_0603" (at 57.15 40.64 0)
@@ -1958,7 +1958,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "C23") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -1967,7 +1967,7 @@
   (symbol (lib_id "antmicropower:GND") (at 77.47 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eccdb80a-d909-4e36-8c63-a2250cf91030)
-    (property "Reference" "#PWR057" (at 77.47 124.46 0)
+    (property "Reference" "#PWR040" (at 77.47 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Value" "GND" (at 77.47 128.905 0)
@@ -1989,7 +1989,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "#PWR057") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -1998,7 +1998,7 @@
   (symbol (lib_id "antmicroResistors0402:R_1k3_0402") (at 124.46 60.96 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8766749-4b74-4067-82da-fd603cf68b92)
-    (property "Reference" "R26" (at 127 62.23 90)
+    (property "Reference" "R28" (at 127 62.23 90)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "R_1k3_0402" (at 138.43 63.5 0)
@@ -2033,7 +2033,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R26") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -2042,7 +2042,7 @@
   (symbol (lib_id "antmicroResistors0402:R_2k15_0402") (at 125.73 110.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f941306b-e2b3-46c4-a6c3-66363b332a8b)
-    (property "Reference" "R27" (at 127 106.68 90)
+    (property "Reference" "R29" (at 127 106.68 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
     )
     (property "Value" "R_template_name_0402" (at 138.43 90.17 0)
@@ -2077,7 +2077,7 @@
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
-          (reference "R27") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
