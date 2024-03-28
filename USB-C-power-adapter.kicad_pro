@@ -469,6 +469,10 @@
     [
       "8da33aa8-79ed-467a-95ed-bf58aa0d1db6",
       ""
+    ],
+    [
+      "344e016f-20ec-4e27-ac78-d9a1e9a3533b",
+      "Additional DCDC converters"
     ]
   ],
   "text_variables": {}
