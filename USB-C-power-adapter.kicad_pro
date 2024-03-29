@@ -472,15 +472,11 @@
     ],
     [
       "344e016f-20ec-4e27-ac78-d9a1e9a3533b",
-      "Additional DCDC converters"
-    ],
-    [
-      "d5d4151e-f37c-4293-b8c0-ffe5c6971ff4",
-      "Connectors"
+      "USB PD"
     ],
     [
       "10c37477-f10f-4b8b-8eb5-2eccdd3a4234",
-      "Power Cycling"
+      "Power Supply"
     ]
   ],
   "text_variables": {}

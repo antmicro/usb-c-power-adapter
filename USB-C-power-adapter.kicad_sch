@@ -6,8 +6,8 @@
 
   (title_block
     (title "USB-C-power-adapter")
-    (date "25.03.2024")
-    (rev "1.0.0")
+    (date "03.2024")
+    (rev "1.0.0.")
     (company "Antmicro")
   )
 
@@ -15,53 +15,36 @@
   )
 
 
-  (sheet (at 129.54 142.24) (size 25.4 22.86) (fields_autoplaced)
+  (sheet (at 133.35 142.24) (size 25.4 22.86)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 10c37477-f10f-4b8b-8eb5-2eccdd3a4234)
-    (property "Sheetname" "Power Cycling" (at 129.54 141.5284 0)
+    (property "Sheetname" "Power Supply" (at 133.35 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power.kicad_sch" (at 129.54 165.6846 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "USB-C-power-adapter"
-        (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6" (page "4"))
-      )
-    )
-  )
-
-  (sheet (at 165.1 142.24) (size 25.4 22.86) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 344e016f-20ec-4e27-ac78-d9a1e9a3533b)
-    (property "Sheetname" "Additional DCDC converters" (at 165.1 141.5284 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "dcdc_converters.kicad_sch" (at 165.1 166.9546 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "USB-C-power-adapter"
-        (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6" (page "2"))
-      )
-    )
-  )
-
-  (sheet (at 200.66 142.24) (size 25.4 22.86) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid d5d4151e-f37c-4293-b8c0-ffe5c6971ff4)
-    (property "Sheetname" "Connectors" (at 200.66 141.5284 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "connectors.kicad_sch" (at 200.66 166.9546 0)
+    (property "Sheetfile" "power_supply.kicad_sch" (at 133.35 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
       (project "USB-C-power-adapter"
         (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 101.6 142.24) (size 25.4 22.86)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 344e016f-20ec-4e27-ac78-d9a1e9a3533b)
+    (property "Sheetname" "USB PD" (at 101.6 141.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "usb_pd.kicad_sch" (at 101.6 166.37 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "USB-C-power-adapter"
+        (path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6" (page "2"))
       )
     )
   )
