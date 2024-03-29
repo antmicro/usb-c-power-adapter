@@ -15,14 +15,14 @@
   )
 
 
-  (sheet (at 95.25 233.68) (size 25.4 24.13) (fields_autoplaced)
+  (sheet (at 129.54 142.24) (size 25.4 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 10c37477-f10f-4b8b-8eb5-2eccdd3a4234)
-    (property "Sheetname" "Power Cycling" (at 95.25 232.9684 0)
+    (property "Sheetname" "Power Cycling" (at 129.54 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power.kicad_sch" (at 95.25 258.3946 0)
+    (property "Sheetfile" "power.kicad_sch" (at 129.54 165.6846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -32,14 +32,14 @@
     )
   )
 
-  (sheet (at 24.765 234.315) (size 25.4 24.13) (fields_autoplaced)
+  (sheet (at 165.1 142.24) (size 25.4 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 344e016f-20ec-4e27-ac78-d9a1e9a3533b)
-    (property "Sheetname" "Additional DCDC converters" (at 24.765 233.6034 0)
+    (property "Sheetname" "Additional DCDC converters" (at 165.1 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "dcdc_converters.kicad_sch" (at 24.765 259.0296 0)
+    (property "Sheetfile" "dcdc_converters.kicad_sch" (at 165.1 166.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -49,14 +49,14 @@
     )
   )
 
-  (sheet (at 61.595 234.315) (size 25.4 24.13) (fields_autoplaced)
+  (sheet (at 200.66 142.24) (size 25.4 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid d5d4151e-f37c-4293-b8c0-ffe5c6971ff4)
-    (property "Sheetname" "Connectors" (at 61.595 233.6034 0)
+    (property "Sheetname" "Connectors" (at 200.66 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "connectors.kicad_sch" (at 61.595 259.0296 0)
+    (property "Sheetfile" "connectors.kicad_sch" (at 200.66 166.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
