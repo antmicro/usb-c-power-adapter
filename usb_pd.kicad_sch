@@ -9,6 +9,7 @@
     (date "03.2024")
     (rev "1.0.0.")
     (company "Antmicro")
+    (comment 1 "www.antmicro.com")
   )
 
   (lib_symbols
