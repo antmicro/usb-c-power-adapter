@@ -19,10 +19,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 10c37477-f10f-4b8b-8eb5-2eccdd3a4234)
-    (property "Sheetname" "Power Supply" (at 133.35 141.5284 0)
+    (property "Sheetname" "DC-DC Converters" (at 133.35 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power_supply.kicad_sch" (at 133.35 166.37 0)
+    (property "Sheetfile" "dc-dc_converters.kicad_sch" (at 133.35 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
