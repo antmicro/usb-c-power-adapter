@@ -6,7 +6,7 @@
 
   (title_block
     (title "USB-C-power-adapter")
-    (date "03.2024")
+    (date "25.03.2024")
     (rev "1.0.0.")
     (company "Antmicro")
     (comment 1 "www.antmicro.com")
