@@ -2835,7 +2835,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_4k7_0402") (at 160.02 132.08 90) (unit 1)
-    (in_bom no) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 0d76496c-b32f-4180-a442-58068e763e19)
     (property "Reference" "R31" (at 162.56 124.46 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -3269,7 +3269,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_4k7_0402") (at 167.64 132.08 90) (unit 1)
-    (in_bom no) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 42af20b7-e5fb-4db2-bd10-0ab395781613)
     (property "Reference" "R32" (at 170.18 124.46 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
