@@ -2850,7 +2850,7 @@
     (uuid ffbdf305-adb5-416d-b4cf-7a66d5cbdf0f)
   )
 
-  (rectangle (start 205.74 106.68) (end 284.48 171.45)
+  (rectangle (start 205.74 106.68) (end 284.48 153.67)
     (stroke (width 0) (type dash))
     (fill (type none))
     (uuid 0c6ef744-c3e8-4a58-8183-ad72f207ad0a)
