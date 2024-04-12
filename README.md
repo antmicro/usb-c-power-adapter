@@ -10,16 +10,17 @@ The project includes open-source design files of a USB-C power adapter, engineer
 
 The board was designed to enable standalone GPU operation with the [Antmicro's Thunderbolt to GPU Adapter](https://openhardware.antmicro.com/boards/thunderbolt-gpu-adapter/?tab=features).
 
-The project was created using [KiCad 7.0](https://www.kicad.org/).
+The project was created using [KiCad 7.x](https://www.kicad.org/).
 
 ## Key features
-* STMicroelectronics **STUSB4500** USB Power Delivery sink controller with I2C programmable PD profile selecting
-* Viashy SIC477 high efficiency volatge buck regulator
+* STMicroelectronics **STUSB4500** USB Power Delivery sink controller
+* **QWIIC** connector for programmable PD profile selector
+* Vishay SIC477 high efficiency volatge buck regulator
 * Nano-Fit output connector for maximum compability
 * Additional +5V and +3.3V DC/DC converters delivering up to 500mA of continous output current
 
-## Block diagram
-
+## Operation
+There are two assembly variants available for the user to choose from. The default variant incorporates the SIC477, supporting a power delivery profile of 20V and 5A. Optionally, if 36 watts of output power is sufficient, users can remove the SIC477 and switch to a power delivery profile of 12V and 3A.
 
 ## Project strcture
 The main directory contains the KiCad project files, the licence and this readme file.
