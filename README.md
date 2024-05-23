@@ -30,7 +30,7 @@ Programming instructions and tools can be found on the [manufacturer's website](
 ## Operation
 The USB-C Power Delivery Adapter must be powered from PD power supply capable of delivering **20V** power input. Make sure that used wall power supply is compatible with programmed profile. 
 
-Used components provide onboard **overtemperature and overvoltage protections**. The device works stably at 55 Watts load with passive colling. At 60 Watts power load, the device will turn itself off after 3 minutes.
+Used components provide onboard **overtemperature and overvoltage protections**. The device works stably at 55 Watts load with passive cooling. At 60 Watts power load, the device will turn itself off after 3 minutes.
 
 
 ## Project structure
