@@ -6,37 +6,52 @@ Copyright (c) 2024 [Antmicro](https://www.antmicro.com)
 
 ## Overview
 
-The USB-C Power Delivery Adapter is a compact device providing **12V 55W** continuous power output from a single [**USB-C PD**](https://www.usb.org/usb-charger-pd) power supply. The output power is expandable up to **75 Watts** using an active colling sollution.
-
-The board was designed to enable standalone GPU operation with the [Antmicro's Thunderbolt to GPU Adapter](https://openhardware.antmicro.com/boards/thunderbolt-gpu-adapter/?tab=features).
+The USB-C Power Delivery Adapter is a module providing **12V 55W** continuous power output from a single [**USB-C PD**](https://www.usb.org/usb-charger-pd) power supply. 
+The board was designed as a power option for the [Antmicro's Thunderbolt to GPU Adapter](https://openhardware.antmicro.com/boards/thunderbolt-gpu-adapter/?tab=features) in stand-alone operation.
 
 The project was created using [KiCad 7.x](https://www.kicad.org/).
 
 ## Key features
-* **12V** power output provided by Vishay [SIC477](https://www.vishay.com/docs/77113/sic47x.pdf) high efficiency voltage buck regulator
+* **12V 55W** output 
+* up to **75 Watts** achievable with an active colling
+* Vishay [SIC477](https://www.vishay.com/docs/77113/sic47x.pdf) voltage buck regulator, operating at 94% efficiency
 * STMicroelectronics [STUSB4500](https://www.mouser.com/datasheet/2/389/dm00489312-1799262.pdf) USB Power Delivery sink controller
 * Additional **+5V** and **+3.3V** DC/DC converters delivering up to 500mA of continuous output current
-* [QWIIC](https://www.sparkfun.com/qwiic) connector for programmable PD profile selector
+* [QWIIC](https://www.sparkfun.com/qwiic) connector for porgramming the Power Delivery profile
 * [Nano-Fit](https://www.molex.com/en-us/products/connectors/wire-to-board-connectors/nano-fit-connectors) output connector
-
+* Overload and overtemperature protection
 
 ## Configuration
-To operate properly, the PD sink controller must be programmed first. [QWIIC](https://www.sparkfun.com/qwiic) connector is dedicated for I2C connection with STUSB4500. The power delivery profile should be set to 20V to utilize device power capabilities. Users have the option to bypass the SIC477 (enabling direct power output from the PD source) and select an alternative power delivery profile, with a maximum voltage of 12V limited by TVS protection at output.
-
+To operate properly, the PD sink controller must be programmed first.\
+[QWIIC](https://www.sparkfun.com/qwiic) connector is dedicated for I2C connection with STUSB4500.\
 Programming instructions and tools can be found on the [manufacturer's website](https://www.st.com/en/interfaces-and-transceivers/stusb4500.html#overview).
 
+Recommended profile for the PD sink:
+```console
+PDO1: 5V (+15%/-5%), 1.5A
+PDO2: 20.0V (+10%/-20%), 3.0A
+PDO3: 20.0V (+10%/-20%), 4.5A
+PDO Number: 3
+Flex Current: 2.0
+External Power: False
+USB Communication Capable: False
+Configuration OK GPIO: 2
+GPIO Control: 1
+Enable Power Only Above 5V: False
+Request Source Current: False
+Factory Default: False
+```
 
 ## Operation
-The USB-C Power Delivery Adapter must be powered from PD power supply capable of delivering **20V** power input and sufficient current sufficient for dedicated task. Used wall power supply must be compatible with programmed profiles. 
-
-Used components provide onboard **overtemperature and overvoltage protections** to ensure operating safety.
-
+The USB-C Power Delivery Adapter must be powered from USB PD power supply with following features:
+  * capable of delivering **20 V** 
+  * power rating exceeding the required load ( >60 W PD supply recommended)
+  * supporting at least one of the programmed PD profiles
 
 ## Project structure
-The main directory contains the KiCad project files, the licence and this readme file.
-The remaining files are stored in following directories:
-* `img`- contains Blender renders used in this readme
-* `doc`- contains schematic in PDF format
+* `/.` -  contains the KiCad project files, the licence and this readme file
+* `/img`- contains Blender renders used in this readme
+* `/doc`- contains schematic in PDF format
 
 
 ## License
