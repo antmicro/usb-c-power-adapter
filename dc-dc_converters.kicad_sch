@@ -6407,11 +6407,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 23a4aeac-5940-4acc-bbee-b6df5e166d29)
   )
-  (text "Note:\nPlace FB1 pin 1 on FB2 pin 1\n(in order to create jumper selector)."
-    (at 68.58 67.31 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 330ace2b-2ace-4a9a-8a18-5de713ba88c7)
-  )
   (text "0.8V typ" (at 176.53 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 33c9cb1f-5fac-44e1-ac09-94c8f34dd9bc)
