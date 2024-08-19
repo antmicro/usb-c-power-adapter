@@ -18,7 +18,7 @@ The design files were prepared in [KiCad 7.x](https://www.kicad.org/).
 * STMicroelectronics [STUSB4500](https://www.mouser.com/datasheet/2/389/dm00489312-1799262.pdf) USB Power Delivery sink controller
 * Additional **+5V** and **+3.3V** DC/DC converters delivering up to 500mA of continuous output current
 * [QWIIC](https://www.sparkfun.com/qwiic) connector for programming the Power Delivery profile
-* [Nano-Fit](https://www.molex.com/en-us/products/connectors/wire-to-board-connectors/nano-fit-connectors) output connector
+* [Molex Nano-Fit](https://www.molex.com/en-us/products/connectors/wire-to-board-connectors/nano-fit-connectors) output connector
 * Overload and overtemperature protection
 
 ## Configuration
