@@ -511,7 +511,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB-C-power-adapter.kicad_pro",
+    "filename": "usb-c-power-adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {

@@ -5,7 +5,7 @@
 	(uuid "f387b628-cd90-4419-bf8c-d7eefe265d3f")
 	(paper "A3")
 	(title_block
-		(title "USB-C-power-adapter")
+		(title "usb-c-power-adapter")
 		(date "2025-02-05")
 		(rev "1.1.1")
 		(company "Antmicro")
@@ -10914,7 +10914,7 @@
 			(uuid "8d218ced-90c0-40bd-9fc9-333edeb636db")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR088")
 					(unit 1)
@@ -11055,7 +11055,7 @@
 			(uuid "1dcec187-5d45-4a9d-9cb7-e8f513e626a2")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R34")
 					(unit 1)
@@ -11196,7 +11196,7 @@
 			(uuid "5b69c8ba-0620-4b80-9fe8-5564ef15d7ba")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R31")
 					(unit 1)
@@ -11314,7 +11314,7 @@
 			(uuid "d23d36c0-a2c7-46b1-b2d8-417f57d9cd5f")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP12")
 					(unit 1)
@@ -11410,7 +11410,7 @@
 			(uuid "ec19a69f-895b-478a-8fb8-0510cf146c6f")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR080")
 					(unit 1)
@@ -11551,7 +11551,7 @@
 			(uuid "6c45b7c4-f938-4f29-b448-5e955b2883ae")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R4")
 					(unit 1)
@@ -11645,7 +11645,7 @@
 			(uuid "adf5a8c8-e919-43ed-9699-11fb8ea1b5fc")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR082")
 					(unit 1)
@@ -11740,7 +11740,7 @@
 			(uuid "83d2477e-e283-4599-9cb4-0465c43e2b07")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR051")
 					(unit 1)
@@ -11807,7 +11807,7 @@
 			(uuid "010efbd6-e47b-4f7c-8078-40252ac0d07e")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR083")
 					(unit 1)
@@ -11948,7 +11948,7 @@
 			(uuid "0945cce3-3de2-4ffb-ade8-4c376ad64e33")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R19")
 					(unit 1)
@@ -12074,7 +12074,7 @@
 			(uuid "800e7964-7ca0-4b09-8962-9677c2fe8921")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "U5")
 					(unit 1)
@@ -12168,7 +12168,7 @@
 			(uuid "c96eda99-bb64-48d8-97c8-dcfdd7a4631e")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR087")
 					(unit 1)
@@ -12263,7 +12263,7 @@
 			(uuid "ee4ae7b7-96cc-4887-8d26-72a839e4fe79")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "MP1")
 					(unit 1)
@@ -12426,7 +12426,7 @@
 			(uuid "d0bfc200-54d9-473f-84a3-fc43a77ad7b7")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "J1")
 					(unit 1)
@@ -12554,7 +12554,7 @@
 			(uuid "de2fed66-0fb0-4543-b602-dfc85f8209d3")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "Q1")
 					(unit 1)
@@ -12650,7 +12650,7 @@
 			(uuid "f3351ec8-fe69-4b05-b5d1-b8764a0e8e1f")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR018")
 					(unit 1)
@@ -12791,7 +12791,7 @@
 			(uuid "27d7c375-ada8-4d9d-9b4f-742f2f6cf3b8")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R25")
 					(unit 1)
@@ -12909,7 +12909,7 @@
 			(uuid "ba6f7d0c-ea52-42ef-ae7c-170dab0b87c9")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP2")
 					(unit 1)
@@ -13004,7 +13004,7 @@
 			(uuid "c163e9da-cea4-4de8-9b39-41e03f6c837a")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR074")
 					(unit 1)
@@ -13145,7 +13145,7 @@
 			(uuid "6623b992-5772-4777-9677-517a006d4e5d")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R32")
 					(unit 1)
@@ -13240,7 +13240,7 @@
 			(uuid "f02cf2f8-01bd-4f85-8fa4-8152a22e0914")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR025")
 					(unit 1)
@@ -13401,7 +13401,7 @@
 			(uuid "b0f69895-08fb-4f49-94f9-aea6cd51ef3e")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C7")
 					(unit 1)
@@ -13529,7 +13529,7 @@
 			(uuid "e35c65a1-2b52-49bd-9c96-89245e47e374")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "J2")
 					(unit 1)
@@ -13647,7 +13647,7 @@
 			(uuid "e578ccc9-fbbb-4f8f-84f3-6be8d7c17339")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP1")
 					(unit 1)
@@ -13763,7 +13763,7 @@
 			(uuid "ee8104a6-e0b8-4ed3-a11d-85184665d760")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP9")
 					(unit 1)
@@ -13859,7 +13859,7 @@
 			(uuid "377fab80-d255-4260-8021-89841024a4f2")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR081")
 					(unit 1)
@@ -13998,7 +13998,7 @@
 			(uuid "9517f7af-1f22-4a54-95a0-1d2b5434e54d")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R3")
 					(unit 1)
@@ -14093,7 +14093,7 @@
 			(uuid "98e5b1f0-3ce8-4009-993c-2e9eb266be34")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR047")
 					(unit 1)
@@ -14158,7 +14158,7 @@
 			(uuid "c13bee68-e06a-4671-8eb7-ae6398f60b0d")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR019")
 					(unit 1)
@@ -14274,7 +14274,7 @@
 			(uuid "08d8ad40-302d-415f-b051-3c1874cebb53")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP13")
 					(unit 1)
@@ -14341,7 +14341,7 @@
 			(uuid "2e033712-4276-4a67-95c6-7989d67f3520")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR046")
 					(unit 1)
@@ -14494,7 +14494,7 @@
 			(uuid "a4155f98-77b7-4351-8035-5f44828c4929")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C19")
 					(unit 1)
@@ -14589,7 +14589,7 @@
 			(uuid "e97876c9-2fb2-4df2-87db-74ea019d0839")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR026")
 					(unit 1)
@@ -14684,7 +14684,7 @@
 			(uuid "ee7d2208-19b0-42f5-891a-f1c8bc4f88bc")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR073")
 					(unit 1)
@@ -14800,7 +14800,7 @@
 			(uuid "848d7eae-c3b7-44f2-aa29-e38b4fd629e8")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP8")
 					(unit 1)
@@ -14917,7 +14917,7 @@
 			(uuid "3a9bdba9-0176-4846-ac76-77e53fbd941a")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP3")
 					(unit 1)
@@ -15047,7 +15047,7 @@
 			(uuid "30cf3c12-9944-4e3e-9c31-c66b408c33ea")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "D7")
 					(unit 1)
@@ -15186,7 +15186,7 @@
 			(uuid "7ffaa509-4261-4750-b590-434d006b1708")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R33")
 					(unit 1)
@@ -15303,7 +15303,7 @@
 			(uuid "59f40f63-0fd5-40d1-9d50-47d0f7f5fa57")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP4")
 					(unit 1)
@@ -15397,7 +15397,7 @@
 			(uuid "b1cae37d-f8ce-4afd-9090-1fd066f45445")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR085")
 					(unit 1)
@@ -15550,7 +15550,7 @@
 			(uuid "1575f77f-3678-4cba-823a-5a5e9d9288ae")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C28")
 					(unit 1)
@@ -15670,7 +15670,7 @@
 			(uuid "ab6fe53a-bc0e-4a97-9ed0-74faf44db4d4")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "D1")
 					(unit 1)
@@ -15765,7 +15765,7 @@
 			(uuid "931d31a3-5c51-498c-bb67-5b3b51861a15")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR057")
 					(unit 1)
@@ -15883,7 +15883,7 @@
 			(uuid "f362326f-611e-4551-a861-8d5e7f865307")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP11")
 					(unit 1)
@@ -15948,7 +15948,7 @@
 			(uuid "b30c7c45-5f1f-4c90-a7de-224c3f383848")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#FLG01")
 					(unit 1)
@@ -16074,7 +16074,7 @@
 			(uuid "0644626c-29f2-4b8e-a320-ab16bba2b75b")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "U8")
 					(unit 1)
@@ -16261,7 +16261,7 @@
 			(uuid "eac65b4b-59ac-489d-8269-ceaf605b90dd")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "U1")
 					(unit 1)
@@ -16356,7 +16356,7 @@
 			(uuid "81f5ccac-1d03-4ce0-975c-1a01063eb66a")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR056")
 					(unit 1)
@@ -16452,7 +16452,7 @@
 			(uuid "395adcad-e55c-4c66-88ce-053a41800889")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR04")
 					(unit 1)
@@ -16603,7 +16603,7 @@
 			(uuid "be679c8e-8293-45e2-808e-1c736d0539d4")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C27")
 					(unit 1)
@@ -16744,7 +16744,7 @@
 			(uuid "f646171a-d435-46d8-8b11-8e7f246f8b4e")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R20")
 					(unit 1)
@@ -16838,7 +16838,7 @@
 			(uuid "9ef3e7f4-ee15-4783-bc60-885f8db17d3f")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR050")
 					(unit 1)
@@ -16933,7 +16933,7 @@
 			(uuid "75262e39-aeba-4bc3-962c-b1e4f10068e5")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR045")
 					(unit 1)
@@ -17027,7 +17027,7 @@
 			(uuid "94a7c21a-1321-4a31-8d80-9571cb5469ea")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR053")
 					(unit 1)
@@ -17093,7 +17093,7 @@
 			(uuid "7ff330f8-afd7-453b-b3c1-fc2e2de45f6b")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#FLG06")
 					(unit 1)
@@ -17188,7 +17188,7 @@
 			(uuid "cb28c6e6-aeb0-4403-935a-b9575c88d5d3")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR061")
 					(unit 1)
@@ -17329,7 +17329,7 @@
 			(uuid "7b7283ac-52df-42dc-9282-e43f946c58c4")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R22")
 					(unit 1)
@@ -17395,7 +17395,7 @@
 			(uuid "0ad9cbcc-4dcf-442d-b179-f49f3e9a87b4")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR031")
 					(unit 1)
@@ -17538,7 +17538,7 @@
 			(uuid "13c569d8-f662-434d-91c8-0cdf255bad5a")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "U6")
 					(unit 1)
@@ -17604,7 +17604,7 @@
 			(uuid "25092c39-ea1a-452d-ba5d-cccf99724325")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR017")
 					(unit 1)
@@ -17669,7 +17669,7 @@
 			(uuid "3c372711-2a45-40f6-a030-4c48395f7e45")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#FLG04")
 					(unit 1)
@@ -17821,7 +17821,7 @@
 			(uuid "f5aa1c79-d3b4-437d-8db1-b54ad07f2482")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R38")
 					(unit 1)
@@ -17962,7 +17962,7 @@
 			(uuid "aa25ab9a-908b-4fe1-be94-f1043ea9e5cb")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R26")
 					(unit 1)
@@ -18088,7 +18088,7 @@
 			(uuid "4e863a05-1378-4d93-977e-ddd59f3301c1")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "U7")
 					(unit 1)
@@ -18239,7 +18239,7 @@
 			(uuid "67a47b0e-146e-4d6a-aa6d-40b3f7366944")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C8")
 					(unit 1)
@@ -18304,7 +18304,7 @@
 			(uuid "e574169f-f1b8-4fcd-97e7-e7a51fa772eb")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR060")
 					(unit 1)
@@ -18370,7 +18370,7 @@
 			(uuid "d8ec1dc5-337e-4b2e-b53c-59deacf5cce7")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR084")
 					(unit 1)
@@ -18520,7 +18520,7 @@
 			(uuid "3630e5c0-b59c-4d2a-9739-dadd3f05da19")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C11")
 					(unit 1)
@@ -18671,7 +18671,7 @@
 			(uuid "9d803f87-a2e2-4686-8d3b-f949e1e2754b")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "C9")
 					(unit 1)
@@ -18765,7 +18765,7 @@
 			(uuid "e8382bac-2d1b-498d-acf3-5aac8652220a")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR054")
 					(unit 1)
@@ -18860,7 +18860,7 @@
 			(uuid "e86441e0-7eb1-4d23-9640-5e2c108ed881")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR049")
 					(unit 1)
@@ -18955,7 +18955,7 @@
 			(uuid "02715f94-f0b1-43df-8d9b-306ce4606358")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR03")
 					(unit 1)
@@ -19051,7 +19051,7 @@
 			(uuid "08225a46-89e4-4b07-8848-32d729c91cda")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR065")
 					(unit 1)
@@ -19192,7 +19192,7 @@
 			(uuid "637f4847-25dc-4ef6-a1c7-fa5d84eb6e51")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "R21")
 					(unit 1)
@@ -19288,7 +19288,7 @@
 			(uuid "1722d523-b8e5-45b2-8cd7-919a1527415b")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR052")
 					(unit 1)
@@ -19353,7 +19353,7 @@
 			(uuid "f5ee2161-957b-49de-9d8d-3d75f6c0b94c")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "#PWR048")
 					(unit 1)
@@ -19483,7 +19483,7 @@
 			(uuid "54dde33e-504c-440d-9a6b-9d01c26d68e0")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "D3")
 					(unit 1)
@@ -19613,7 +19613,7 @@
 			(uuid "6eae4e84-5c3c-429f-91ea-1267c085589f")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "D6")
 					(unit 1)
@@ -19731,7 +19731,7 @@
 			(uuid "ca105e5c-6c86-471a-acbd-70570305124d")
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6/344e016f-20ec-4e27-ac78-d9a1e9a3533b"
 					(reference "TP10")
 					(unit 1)

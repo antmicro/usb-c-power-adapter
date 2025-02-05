@@ -5,7 +5,7 @@
 	(uuid "8da33aa8-79ed-467a-95ed-bf58aa0d1db6")
 	(paper "A3")
 	(title_block
-		(title "USB-C-power-adapter")
+		(title "usb-c-power-adapter")
 		(date "2025-02-05")
 		(rev "1.1.1")
 		(company "Antmicro")
@@ -2085,7 +2085,7 @@
 			)
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6"
 					(page "3")
 				)
@@ -2122,7 +2122,7 @@
 			)
 		)
 		(instances
-			(project "USB-C-power-adapter"
+			(project "usb-c-power-adapter"
 				(path "/8da33aa8-79ed-467a-95ed-bf58aa0d1db6"
 					(page "2")
 				)
