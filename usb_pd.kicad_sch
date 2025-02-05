@@ -16150,7 +16150,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-				(justify left bottom)
 			)
 		)
 		(property "Manufacturer" "STMicroelectronics"
