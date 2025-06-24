@@ -71,7 +71,6 @@
 				(material "PR7628")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02) addsublayer
-				(color "FR4 natural")
 				(thickness 0.18)
 			)
 			(layer "In1.Cu"
@@ -97,7 +96,6 @@
 				(material "FR4PR7628")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02) addsublayer
-				(color "FR4 natural")
 				(thickness 0.18)
 			)
 			(layer "B.Cu"
@@ -7804,7 +7802,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -16020,7 +16018,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -23061,7 +23059,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -30402,7 +30400,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -37443,7 +37441,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -44535,7 +44533,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/D_SOD-323F.step"
 			(offset
-				(xyz -0 -0.001 0)
+				(xyz 0 -0.001 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -57582,7 +57580,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -58222,7 +58220,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/L_Abracon_ASPIAIG-Q8080.step"
 			(offset
-				(xyz -0 -0 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -74982,7 +74980,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -82636,7 +82634,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -124631,7 +124629,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -156555,7 +156553,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/SIC462ED-T1-GE3.STEP"
 			(offset
-				(xyz 0 -0 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -167303,7 +167301,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -174344,7 +174342,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -182547,7 +182545,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -194471,7 +194469,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -221708,7 +221706,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -221866,7 +221864,7 @@
 		(path "/344e016f-20ec-4e27-ac78-d9a1e9a3533b/c7c77673-ab34-4d4d-af41-6076b2345abd")
 		(sheetname "/USB PD/")
 		(sheetfile "usb_pd.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd exclude_from_pos_files exclude_from_bom dnp)
 		(fp_rect
 			(start -0.925 -0.47)
 			(end 0.925 0.47)
@@ -229369,7 +229367,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -243887,7 +243885,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_1206_3216Metric.step"
 			(offset
-				(xyz -0 -0.001 0)
+				(xyz 0 -0.001 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -258423,7 +258421,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -271185,7 +271183,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -321105,7 +321103,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -366010,7 +366008,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/D_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -368384,7 +368382,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_1206_3216Metric.step"
 			(offset
-				(xyz -0 -0.001 0)
+				(xyz 0 -0.001 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -377220,7 +377218,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -393819,7 +393817,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_1206_3216Metric.step"
 			(offset
-				(xyz -0 -0.001 0)
+				(xyz 0 -0.001 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -402199,7 +402197,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_1206_3216Metric.step"
 			(offset
-				(xyz -0 -0.001 0)
+				(xyz 0 -0.001 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -409977,7 +409975,7 @@
 		(embedded_fonts no)
 		(model "${ANT3DMDL}/C_0402_1005Metric.step"
 			(offset
-				(xyz -0 -0 0.2)
+				(xyz 0 0 0.2)
 			)
 			(scale
 				(xyz 1 1 1)
