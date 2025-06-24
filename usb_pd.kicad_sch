@@ -4953,8 +4953,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "P-Channel 40 V 16A (Tc) 62.5W (Tc) Surface Mount PowerPAK® 1212-8"
-				(at 0 0 0)
+			(property "Description" "MOSFET, P Channel, 40 V, 16A, 0.047 ohm, PowerPAK 1212-8, Surface Mount"
+				(at 53.34 -24.384 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5215,7 +5215,7 @@
 						(type background)
 					)
 				)
-				(pin passive line
+				(pin input line
 					(at 0 0 0)
 					(length 2.54)
 					(name "G"
@@ -12605,7 +12605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "P-Channel 40 V 16A (Tc) 62.5W (Tc) Surface Mount PowerPAK® 1212-8"
+		(property "Description" "MOSFET, P Channel, 40 V, 16A, 0.047 ohm, PowerPAK 1212-8, Surface Mount"
 			(at 304.8 67.31 0)
 			(effects
 				(font
