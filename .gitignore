@@ -1,3 +1,4 @@
+
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
@@ -7,6 +8,7 @@
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.kicad_sym_bak
 *-backups
 *.kicad_prl
 *.sch-bak
@@ -16,6 +18,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+~*.lck
+\#auto_saved_files#
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -27,3 +31,28 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Except stackup.csv
+!assets/stackup.csv
+
+# Mechanical design files
+*.step
+*.stp
+*.wrl
+*.vrml
+
+# Archives
+*.zip
+
+# Exports used by Antmicro's tools
+*slices/*
+config/*
+blender_renders/*
+*blendcfg.yaml
+
+# Python related files
+build/
+*.pyc
+*.sw*
+venv/
+.venv/
