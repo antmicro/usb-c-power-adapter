@@ -18,7 +18,7 @@
         "wurth-elektronik-74279221100",
         "gct-usb4105-gf-a",
         "jst-automotive-connectors-sm04b-srss-tb-lf-sn",
-        "molex-105313-2202",
+        "molex-1053131202",
         "abracon-aspiaig-q8080-4r7m-t",
         "tdk-tfm252012alma3r3mtaa",
         "vishay-sqs401en-t1-be3",
@@ -49,23 +49,7 @@
         "texas-instruments-tpd4e02b04dqar"
     ],
     "stackup": {
-        "layers": [
-            {
-                "fileName": "layer0.webp"
-            },
-            {
-                "fileName": "layer1.webp"
-            },
-            {
-                "fileName": "layer2.webp"
-            },
-            {
-                "fileName": "layer3.webp"
-            },
-            {
-                "fileName": "layer4.webp"
-            }
-        ]
+        "layers": null
     },
     "previews": [
         {
