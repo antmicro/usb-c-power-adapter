@@ -9,7 +9,7 @@ Copyright (c) 2025 [Antmicro](https://www.antmicro.com)
 The USB-C Power Delivery Adapter is a module providing **12V 55W** continuous power output from a single [**USB-C PD**](https://www.usb.org/usb-charger-pd) power supply. 
 The board was designed as a power option for [Antmicro's Thunderbolt to GPU Adapter](https://openhardware.antmicro.com/boards/thunderbolt-gpu-adapter/?tab=features) in stand-alone operation.
 
-The design files were prepared in [KiCad 8.x](https://www.kicad.org/).
+The design files were prepared in [KiCad 9.x](https://www.kicad.org/).
 
 ## Key features
 * **12V 55W** output 
