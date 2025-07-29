@@ -2,7 +2,7 @@
 
 Copyright (c) 2025 [Antmicro](https://www.antmicro.com)
 
-![image](assets/previews/orthoT.png)
+![image](img/usb-c-power-adapter-photo.png)
 
 ## Overview
 
